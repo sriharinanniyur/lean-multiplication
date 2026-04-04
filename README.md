@@ -2,7 +2,7 @@
 
 Lean 4 correctness proofs of multiplication algorithms, assisted by Aristotle. Lean 4.28 and Mathlib 4 required.
 
-Verified implementations of:
+Algorithms covered:
 - Karatsuba's algorithm
 - Toom-Cook algorithm with integer evaluation points
 
