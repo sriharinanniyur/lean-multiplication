@@ -1,6 +1,6 @@
 # Lean proofs of Karatsuba and Toom-Cook multiplication
 
-Lean 4 correctness proofs of the Karatsuba and Toom-Cook algorithms, assisted by Aristotle.
+Lean 4 correctness proofs of the Karatsuba and Toom-Cook algorithms, assisted by Aristotle and GPT-5.
 
 This repository is an archive of our early work; we have covered several more multiplication/division algorithms since. See [here](https://github.com/sriharinanniyur/fast_verified_mul).
 
